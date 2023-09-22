@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+.container{
+	width:100vw;
+	height:100vh;
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap;
+	
+}
+.box{
+	width:100px;
+	height:100px;
+	background:black;
+	color:white;
+	font-size:20px;
+	margin-inline:auto;
+	padding:20px;
+}
